@@ -1,19 +1,113 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm **Muhammad Ehtasham Saeed**, a **3rd-year Software Engineering student** at **FAST-NUCES**, passionate about backend development, system design, and building scalable applications.<br><br>I have a strong programming foundation in **C++**, where I've implemented **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP)** concepts. Currently, I'm expanding my skills into **Java and Spring Boot** to build modern, production-ready backend systems.<br><br>### 🎯 Academic & Technical Background<br><br>| Area | Details |<br>| :--- | :--- |<br>| **Core Programming** | C++, Java (currently learning), SQL, Assembly Language |<br>| **Key Courses Completed** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems (OS), Software Design & Architecture (SDA), Software Requirements Engineering (SRE), Introduction to Software Engineering (ITSE), Database Systems (DB), Computer Organization & Assembly Language (COAL) |<br>| **Currently Learning** | Java, Spring Boot, PostgreSQL, AWS, Docker, AI Integration |<br>| **Internship** | Building **AI-Powered Career Coach Platform** at Tynovate Studio (Java + Spring Boot + OpenAI) |<br><br>### 🏗️ Project-Based Learning<br><br>I believe in learning by building. For every course I've taken, I've built a hands-on project to apply the concepts:<br><br>| Course | Project Built |<br>| :--- | :--- |<br>| **Database Systems (DB)** | Vehicle Rental Management System (MySQL + C++) |<br>| **Software Requirements Engineering (SRE)** | Facility Booking System (SRS Documentation) |<br>| **Software Design & Architecture (SDA)** | Football Stadium Management System (UML + C++) |<br>| **Operating Systems (OS)** | NyxOS — Mini Operating System (C++) |<br>| **Computer Organization & Assembly (COAL)** | Brick Breaker Game (NASM Assembly) |<br><br>### 🏆 Competitions & Events<br><br>- 🧠 Participated in an **OpenAI Hackathon** (online) — explored AI-powered solutions and prompt engineering<br>- 🏅 Competed in **Programming Competitions at FAST-NUCES** — sharpened problem-solving under pressure<br>- 🤝 Active member of **Career Connect Society & SGS** at FAST<br><br>### 🛠️ My Approach to Software Engineering<br><br>I don't just code — I think about **requirements, design, architecture, and quality**. My coursework in **SRE, SDA, and ITSE** has equipped me to understand the full Software Development Life Cycle (SDLC), and I apply that thinking to every project I build.<br><br>### 🎯 Current Focus<br><br>- 🔭 **Internship:** AI Career Coach Platform (Resume Scoring, Interview Practice, Progress Tracking)<br>- 📚 **Learning:** Java, Spring Boot, Cloud (AWS), Docker, AI Integration<br>- 💻 **Daily Habit:** 1 LeetCode problem/day — because DSA never goes out of style<br>- 🎓 **University:** 3rd Year, FAST-NUCES (Maintaining CGPA while building real-world skills)<br><br>### 💡 My Philosophy<br><br>> *"Code should be readable, systems should be scalable, and learning should never stop. Good engineers don't just write code — they solve problems."*
+<h1 align="center">Building Robust, Scalable Backend Systems</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer+in+the+Making;Java+%7C+Spring+Boot+%7C+AWS;AI-Integrated+Applications;FAST+NUCES+%7C+3rd+Year" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ehtashamsaeed05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/M. Ehtasham) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ehtasham Saeed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ehtashamsd@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://leetcode.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=M-Ehtasham-SE&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=M-Ehtasham-SE&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=M-Ehtasham-SE&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-Ehtasham-SE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=M-Ehtasham-SE&icon=0&color=0)](https://visitcount.itsvg.in)
-## 💰 Support
 
-> I'm a student currently building my skills. If you'd like to support my learning journey, feel free to reach out via email — I'm always open to collaboration and learning opportunities!
+## 👨‍💻 About Me
+
+I am a **3rd-year Software Engineering student** at **FAST NUCES**, specializing in **backend development, system-level programming, and AI-integrated applications**. From building OS-level projects in C++ to deploying AI-powered career platforms with Java and Spring Boot — I engineer solutions that are clean, scalable, and built for the real world.
+
+### 🎯 Core Focus
+
+- 🚀 **Backend Development** — Java · Spring Boot · REST APIs
+- ☁️ **Cloud & DevOps** — AWS · Docker · Linux
+- 🧠 **AI Integration** — OpenAI · Gemini · LangChain
+- 💻 **Systems Programming** — C++ · Assembly · OS Concepts
+- 🗄️ **Database Design** — PostgreSQL · MySQL · Hibernate
+- 📐 **Software Architecture** — OOP · DSA · SDLC · Design Patterns
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=asm&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 🧠 AI & ML Integration
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ehtasham-SE&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ehtasham-SE&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🏆 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/M-Ehtasham-SE?theme=dark&font=Baloo%202" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)** | Java, Spring Boot, PostgreSQL, OpenAI | Resume scoring, interview practice, progress tracking |
+| **[LeetCode Solutions](https://github.com/M-Ehtasham-SE/LeetCode-Solutions)** | Java, C++ | Daily DSA practice — 400+ problems |
+| **[NyxOS](https://github.com/M-Ehtasham-SE/NyxOS)** | C++ | Mini Operating System (Systems Programming) |
+| **[Brick Breaker](https://github.com/M-Ehtasham-SE/Brick-Braker-)** | NASM Assembly | Game built in Assembly Language |
+
+---
+
+
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://leetcode.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is not just instructions for machines — it is the architecture of ideas made real."</i>
+</p>
