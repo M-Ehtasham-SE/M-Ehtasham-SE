@@ -1,13 +1,16 @@
-<h1 align="center">Building Robust, Scalable Backend Systems</h1>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/FAST-NUCES-red?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="FAST-NUCES" />
+  Building Robust, Scalable Backend Systems
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer+in+the+Making;Java+%7C+Spring+Boot+%7C+AWS;AI-Integrated+Applications;FAST+NUCES+%7C+3rd+Year" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/m-ehtasham-974494344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://leetcode.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/M-Ehtasham"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -17,9 +20,11 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🏛️ About Me
 
-I am a **3rd-year Software Engineering student** at **FAST NUCES**, specializing in **backend development, system-level programming, and AI-integrated applications**. From building OS-level projects in C++ to deploying AI-powered career platforms with Java and Spring Boot — I engineer solutions that are clean, scalable, and built for the real world.
+I am a **3rd-year Software Engineering student** at **FAST National University of Computer and Emerging Sciences**, specializing in **backend development, system-level programming, and AI-integrated applications**. 
+
+From building OS-level projects in C++ to deploying AI-powered career platforms with Java and Spring Boot — I engineer solutions that are clean, scalable, and built for the real world.
 
 ### 🎯 Core Focus
 
@@ -77,10 +82,16 @@ I am a **3rd-year Software Engineering student** at **FAST NUCES**, specializing
 
 ---
 
-## 🏆 LeetCode Progress
+## 🏆 LeetCode Progress (Real-Time)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/M-Ehtasham-SE?theme=dark&font=Baloo%202" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/M-Ehtasham">
+    <img src="https://leetcard.jacoblin.cool/M-Ehtasham?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <i>1-2 problems a day with dedication — because DSA never goes out of style.</i>
 </p>
 
 ---
@@ -89,10 +100,13 @@ I am a **3rd-year Software Engineering student** at **FAST NUCES**, specializing
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)** | Java, Spring Boot, PostgreSQL, OpenAI | Resume scoring, interview practice, progress tracking |
-| **[LeetCode Solutions](https://github.com/M-Ehtasham-SE/LeetCode-Solutions)** | Java, C++ | Daily DSA practice — 400+ problems |
-| **[NyxOS](https://github.com/M-Ehtasham-SE/NyxOS)** | C++ | Mini Operating System (Systems Programming) |
-| **[Brick Breaker](https://github.com/M-Ehtasham-SE/Brick-Braker-)** | NASM Assembly | Game built in Assembly Language |
+| **[AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)** | Java, Spring Boot, PostgreSQL, OpenAI | Resume scoring, interview practice, progress tracking — Tynovate Studio Internship |
+| **[Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)** | C++, MySQL | Full-stack database project with complex queries and CRUD operations |
+| **[NyxOS - Mini OS](https://github.com/M-Ehtasham-SE/NyxOS)** | C++ | Mini Operating System with process scheduling and memory management |
+| **[Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System)** | C++, MySQL | Requirements Engineering project with complete SRS documentation |
+| **[Football Stadium Management System](https://github.com/M-Ehtasham-SE/Football-Stadium-System)** | C++, UML | Software Design project with complete UML diagrams |
+| **[Brick Breaker Game](https://github.com/M-Ehtasham-SE/Brick-Braker-)** | NASM Assembly | Classic game built in Assembly Language |
+| **[LeetCode Solutions](https://github.com/M-Ehtasham-SE/LeetCode-Solutions)** | Java, C++ | Daily problem-solving practice with 1-2 problems/day |
 
 ---
 
@@ -100,9 +114,9 @@ I am a **3rd-year Software Engineering student** at **FAST NUCES**, specializing
 ## 🤝 Let's Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/m-ehtasham-974494344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://leetcode.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/M-Ehtasham"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
