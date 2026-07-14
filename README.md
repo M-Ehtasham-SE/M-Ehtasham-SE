@@ -101,10 +101,10 @@ From building OS-level projects in C++ to deploying AI-powered career platforms 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)** | Java, Spring Boot, PostgreSQL, OpenAI | Resume scoring, interview practice, progress tracking — Tynovate Studio Internship |
-| **[Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)** | C++, MySQL | Full-stack database project with complex queries and CRUD operations |
+| **[Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)** | React,Node.js, MySQL | Full-stack database project with complex queries and CRUD operations |
 | **[NyxOS - Mini OS](https://github.com/M-Ehtasham-SE/NyxOS)** | C++ | Mini Operating System with process scheduling and memory management |
-| **[Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System)** | C++, MySQL | Requirements Engineering project with complete SRS documentation |
-| **[Football Stadium Management System](https://github.com/M-Ehtasham-SE/Football-Stadium-System)** | C++, UML | Software Design project with complete UML diagrams |
+| **[Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System)** | uml | Requirements Engineering project with complete SRS documentation |
+| **[Football Stadium Management System](https://github.com/M-Ehtasham-SE/Football-Stadium-System)** | Java, UML | Software Design project with complete UML diagrams |
 | **[Brick Breaker Game](https://github.com/M-Ehtasham-SE/Brick-Braker-)** | NASM Assembly | Classic game built in Assembly Language |
 | **[LeetCode Solutions](https://github.com/M-Ehtasham-SE/LeetCode-Solutions)** | Java, C++ | Daily problem-solving practice with 1-2 problems/day |
 
