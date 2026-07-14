@@ -73,16 +73,25 @@ From building OS-level projects in C++ to deploying AI-powered career platforms 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution Timeline
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Ehtasham-SE&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ehtasham-SE&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Ehtasham-SE&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Contribution Graph (Timeline) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ehtasham-SE&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
 ---
 
-## 🏆 LeetCode Progress (Real-Time)
+## 🏆 LeetCode Progress (Real-Time, Exact Counts)
 
 <p align="center">
   <a href="https://leetcode.com/M-Ehtasham">
@@ -91,7 +100,7 @@ From building OS-level projects in C++ to deploying AI-powered career platforms 
 </p>
 
 <p align="center">
-  <i>1-2 problems a day with dedication — because DSA never goes out of style.</i>
+  <i>📊 Exact daily breakdown: Easy / Medium / Hard — automatically updated with each submission.</i>
 </p>
 
 ---
@@ -101,14 +110,20 @@ From building OS-level projects in C++ to deploying AI-powered career platforms 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **[AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)** | Java, Spring Boot, PostgreSQL, OpenAI | Resume scoring, interview practice, progress tracking — Tynovate Studio Internship |
-| **[Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)** | React,Node.js, MySQL | Full-stack database project with complex queries and CRUD operations |
+| **[Discrete Project](https://github.com/M-Ehtasham-SE/Discrete-Project-New)** | Makefile, C++, CMake, C, Shell, Batchfile | Multilingual project with advanced build system |
+| **[Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)** | React, Node.js, MySQL | Full-stack database project with complex queries and CRUD operations |
 | **[NyxOS - Mini OS](https://github.com/M-Ehtasham-SE/NyxOS)** | C++ | Mini Operating System with process scheduling and memory management |
-| **[Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System)** | uml | Requirements Engineering project with complete SRS documentation |
+| **[Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System)** | UML | Requirements Engineering project with complete SRS documentation |
 | **[Football Stadium Management System](https://github.com/M-Ehtasham-SE/Football-Stadium-System)** | Java, UML | Software Design project with complete UML diagrams |
 | **[Brick Breaker Game](https://github.com/M-Ehtasham-SE/Brick-Braker-)** | NASM Assembly | Classic game built in Assembly Language |
 | **[LeetCode Solutions](https://github.com/M-Ehtasham-SE/LeetCode-Solutions)** | Java, C++ | Daily problem-solving practice with 1-2 problems/day |
 
+### 📂 Discrete Project Language Breakdown
+
+![Discrete Project Languages](https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=Discrete-Project-New&show_owner=true&theme=radical)
+
 ---
+
 
 
 ## 🤝 Let's Connect & Collaborate
