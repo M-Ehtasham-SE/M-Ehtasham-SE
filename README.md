@@ -131,13 +131,12 @@ From building an OS from scratch in C++ to shipping an AI-powered career-coachin
 ## 🏆 LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/M-Ehtasham">
-    <img src="https://leetcard.jacoblin.cool/M-Ehtasham?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/Ehtasham-SE/">
+    <img src="https://leetcard.jacoblin.cool/Ehtasham-SE?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
 > Card updates automatically whenever you solve a new problem — no manual editing needed. If it shows an error, it's usually a temporary rate limit on the shared instance (same as the GitHub stats cards above), not your data.
-
 ---
 
 ## 📌 Featured Projects
