@@ -132,7 +132,7 @@ From building an OS from scratch in C++ to shipping an AI-powered career-coachin
 
 <p align="center">
   <a href="https://leetcode.com/M-Ehtasham">
-    <img src="https://leetcard.jacoblin.cool/M-Ehtasham?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcode.com/u/Ehtasham-SE/" />
   </a>
 </p>
 
