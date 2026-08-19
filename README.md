@@ -132,11 +132,11 @@ From building an OS from scratch in C++ to shipping an AI-powered career-coachin
 
 <p align="center">
   <a href="https://leetcode.com/M-Ehtasham">
-    <img src="https://leetcode.com/u/Ehtasham-SE/" />
+    <img src="https://leetcard.jacoblin.cool/M-Ehtasham?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
-<p align="center"><i>Total solved, Easy/Medium/Hard breakdown, and daily heatmap — pulled live from LeetCode on every profile view. No manual editing needed.</i></p>
+> Card updates automatically whenever you solve a new problem — no manual editing needed. If it shows an error, it's usually a temporary rate limit on the shared instance (same as the GitHub stats cards above), not your data.
 
 ---
 
