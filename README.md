@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Muhammad Ehtasham — Software Engineer in the making" width="100%"/>
+<img src="./assets/hero.svg" alt="Muhammad Ehtasham, Software Engineer in the making" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Backend+Engineer+in+the+Making;Java+%7C+Spring+Boot+%7C+AWS;AI-Integrated+Applications;FAST-NUCES+%7C+3rd+Year+Software+Engineering" alt="Typing animation"/>
 
@@ -28,9 +28,10 @@ I'm a **3rd-year Software Engineering student at FAST-NUCES**, focused on **back
 
 My work runs from the bottom of the stack to the top. I built a small operating system in C++ with process scheduling and memory management. I also built an AI-powered career-coaching platform with Java and Spring Boot. I care about software that is clean, scalable and meant to run in production, not just pass an assignment.
 
+<img src="./assets/education.svg" alt="Education: FAST-NUCES, B.S. Software Engineering" width="100%"/>
+
 | | |
 | :--- | :--- |
-| **Education** | B.S. Software Engineering, FAST-NUCES (3rd year) |
 | **Objective** | Software Engineer role (backend / full-stack), building reliable, well-architected systems and growing into cloud and distributed systems work |
 | **Focus** | Backend · Cloud & DevOps · AI integration · Systems programming · Database design · Software architecture |
 
@@ -46,6 +47,8 @@ My work runs from the bottom of the stack to the top. I built a small operating 
 ---
 
 ## `02` &nbsp;Tech Stack
+
+<img src="./assets/stack3d.svg" alt="Tech stack as a layered architecture" width="100%"/>
 
 <div align="center">
 
@@ -154,6 +157,19 @@ Multi-language project built around a custom build system.
 ## `05` &nbsp;Activity & Analytics
 
 <div align="center">
+  <a href="https://github.com/M-Ehtasham-SE"><img src="https://ghchart.rshah.org/22d3ee/M-Ehtasham-SE" alt="GitHub contribution calendar" width="100%"/></a>
+  <br/><sub>Every square is one day of contributions</sub>
+</div>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+</p>
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
@@ -172,14 +188,6 @@ Multi-language project built around a custom build system.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ehtasham-SE&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 </p>
 
 ---
