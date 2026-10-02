@@ -1,193 +1,222 @@
-<h1 align="center">
-  Hi, I'm Muhammad Ehtasham 👋
-</h1>
+<div align="center">
 
-<h3 align="center">Backend Engineer in the Making · Java · Spring Boot · AWS · AI-Integrated Applications</h3>
+<img src="./assets/hero.svg" alt="Muhammad Ehtasham — Software Engineer in the making" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Backend+Engineer+in+the+Making;Java+%7C+Spring+Boot+%7C+AWS;AI-Integrated+Applications;FAST-NUCES+%7C+3rd+Year+Software+Engineering" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Backend+Engineer+in+the+Making;Java+%7C+Spring+Boot+%7C+AWS;AI-Integrated+Applications;FAST-NUCES+%7C+3rd+Year+Software+Engineering" alt="Typing animation"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/m-ehtasham-974494344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://leetcode.com/M-Ehtasham"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Ehtasham-SE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/M-Ehtasham-SE?label=Followers&style=flat&color=blue" alt="Followers"/>
-</p>
+<a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/m-ehtasham-974494344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/Ehtasham-SE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<!-- Portfolio (add when you have one):
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-</p>
+<br/><br/>
 
-<!--
-  ^ This snake animation is generated automatically by the GitHub Action in
-  .github/workflows/snake.yml — see SETUP.md for the one-time setup steps.
-  If you haven't run the Action yet, this line will just show a broken image;
-  delete it until then, or follow SETUP.md to enable it.
--->
+<img src="https://komarev.com/ghpvc/?username=M-Ehtasham-SE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/M-Ehtasham-SE?label=Followers&style=flat&color=blue" alt="Followers"/>
 
----
+</div>
 
-## 🏛️ About Me
+<br/>
 
-I'm a **3rd-year Software Engineering student** at **FAST National University of Computer and Emerging Sciences (FAST-NUCES)**, focused on **backend development, systems programming, and AI-integrated applications**.
+## `01` &nbsp;About
 
-From building an OS from scratch in C++ to shipping an AI-powered career-coaching platform with Java and Spring Boot, I like engineering things that are clean, scalable, and actually meant to run in production — not just pass an assignment.
+I'm a **3rd-year Software Engineering student at FAST-NUCES**, focused on **backend development, systems programming and AI-integrated applications**.
 
-**🎓 Education:** B.S. Software Engineering, FAST-NUCES — 3rd Year
-**🎯 Career Objective:** Software Engineer role (backend / full-stack) where I can build reliable, well-architected systems and keep growing into cloud and distributed systems work.
+My work runs from the bottom of the stack to the top. I built a small operating system in C++ with process scheduling and memory management. I also built an AI-powered career-coaching platform with Java and Spring Boot. I care about software that is clean, scalable and meant to run in production, not just pass an assignment.
 
-### Core Focus
+| | |
+| :--- | :--- |
+| **Education** | B.S. Software Engineering, FAST-NUCES (3rd year) |
+| **Objective** | Software Engineer role (backend / full-stack), building reliable, well-architected systems and growing into cloud and distributed systems work |
+| **Focus** | Backend · Cloud & DevOps · AI integration · Systems programming · Database design · Software architecture |
 
-- 🚀 **Backend Development** — Java · Spring Boot · REST APIs
-- ☁️ **Cloud & DevOps** — AWS · Docker · Linux
-- 🧠 **AI Integration** — OpenAI · Gemini · LangChain
-- 💻 **Systems Programming** — C++ · Assembly · OS Concepts
-- 🗄️ **Database Design** — PostgreSQL · MySQL · Hibernate
-- 📐 **Software Architecture** — OOP · DSA · SDLC · Design Patterns
+<details>
+<summary><b>Side notes</b></summary>
 
-### 📚 Currently Learning
+- Built a mini OS (NyxOS) in C++, for fun and for a grade.
+- Wrote a Brick Breaker game in raw NASM Assembly, because sometimes you want to suffer a little.
+- Debugging fuels me more than coffee does.
 
-`Distributed Systems Basics` · `Advanced Spring Security (OAuth2 / JWT)` · `AWS Solutions Architect fundamentals`
-
-### 💡 Fun Facts
-
-- 🖥️ Built a mini Operating System (NyxOS) with process scheduling and memory management, in C++, for fun and for a grade.
-- 🎮 Also wrote a Brick Breaker game in raw NASM Assembly — because sometimes you want to suffer a little.
-- ☕ Debugging fuels me more than actual coffee does.
+</details>
 
 ---
 
-## 🛠️ Tech Arsenal
+## `02` &nbsp;Tech Stack
 
-**Languages**
+<div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,postgres,mysql&perline=6" alt="Languages and databases"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind&perline=4" alt="Frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postman,idea,vscode&perline=7" alt="Cloud and tools"/>
 
-**Backend & Frameworks**
+</div>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Cloud, Tools & OS**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**IDEs**
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**AI & ML Integration**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | Java · C++ · Assembly (NASM) · SQL · JavaScript · TypeScript |
+| **Backend** | Spring Boot · Spring Security · Hibernate · REST APIs · Node.js |
+| **Frontend** | React · Tailwind CSS |
+| **Databases** | PostgreSQL · MySQL |
+| **Cloud / DevOps** | AWS · Docker · Linux |
+| **AI integration** | OpenAI · Gemini · LangChain |
+| **Tools** | Git · Postman · IntelliJ IDEA · VS Code |
+| **Foundations** | OOP · DSA · SDLC · Design Patterns · OS concepts |
 
 ---
 
-## 📊 GitHub Stats
+## `03` &nbsp;Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Ehtasham-SE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ehtasham-SE&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://github.com/M-Ehtasham-SE/ai-career-coach-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=ai-career-coach-platform&theme=tokyonight&hide_border=true" alt="AI Career Coach Platform"/></a>
+  <a href="https://github.com/M-Ehtasham-SE/NyxOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=NyxOS&theme=tokyonight&hide_border=true" alt="NyxOS"/></a>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Ehtasham-SE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/M-Ehtasham-SE/Vehicle-Rental-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=Vehicle-Rental-System&theme=tokyonight&hide_border=true" alt="Vehicle Rental System"/></a>
+  <a href="https://github.com/M-Ehtasham-SE/Discrete-Project-New"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=Discrete-Project-New&theme=tokyonight&hide_border=true" alt="Discrete Project"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ehtasham-SE&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> If any card above shows "Max retries exceeded" or "Error," it's a temporary rate limit on the shared public instance, not your data — see the **Troubleshooting** section in `SETUP.md` for the one-time self-host fix.
+### 🧠 [AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)
+Resume scoring, mock interview practice and progress tracking. Built during the Tynovate Studio internship.
+
+**Stack:** Java · Spring Boot · PostgreSQL · OpenAI
+**Highlights:** AI-powered resume analysis · interview practice · progress tracking
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [NyxOS: Mini OS](https://github.com/M-Ehtasham-SE/NyxOS)
+A small operating system with process scheduling and memory management.
+
+**Stack:** C++
+**Highlights:** scheduler · memory manager · systems-level design
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🚗 [Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)
+Full-stack rental application with complex queries and complete CRUD operations.
+
+**Stack:** React · Node.js · MySQL
+**Highlights:** relational modelling · CRUD · query design
+
+</td>
+<td valign="top">
+
+### 🛠️ [Discrete Project](https://github.com/M-Ehtasham-SE/Discrete-Project-New)
+Multi-language project built around a custom build system.
+
+**Stack:** C++ · CMake · Make · Shell
+**Highlights:** build automation
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br/>
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| [Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System) | UML | Requirements engineering project with a full SRS document |
+| [Football Stadium Management System](https://github.com/M-Ehtasham-SE/Football-Stadium-System) | Java · UML | Software design project with complete UML diagrams |
+| [Brick Breaker Game](https://github.com/M-Ehtasham-SE/Brick-Braker-) | NASM Assembly | A classic arcade game built directly in Assembly |
+| [LeetCode Solutions](https://github.com/M-Ehtasham-SE/LeetCode-Solutions) | Java · C++ | Daily problem-solving log, 1–2 problems a day |
+
+</details>
 
 ---
 
-## 🏆 LeetCode Progress
+## `04` &nbsp;Problem Solving: LeetCode (live)
 
 <p align="center">
   <a href="https://leetcode.com/u/Ehtasham-SE/">
-    <img src="https://leetcard.jacoblin.cool/Ehtasham-SE?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Ehtasham-SE?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
 
-> Card updates automatically whenever you solve a new problem — no manual editing needed. If it shows an error, it's usually a temporary rate limit on the shared instance (same as the GitHub stats cards above), not your data.
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/M-Ehtasham-SE/ai-career-coach-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=ai-career-coach-platform&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/M-Ehtasham-SE/NyxOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=NyxOS&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/M-Ehtasham-SE/Vehicle-Rental-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=Vehicle-Rental-System&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/M-Ehtasham-SE/Discrete-Project-New">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=Discrete-Project-New&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)** | Java · Spring Boot · PostgreSQL · OpenAI | Resume scoring, mock interview practice, and progress tracking — built during the Tynovate Studio internship |
-| **[NyxOS – Mini OS](https://github.com/M-Ehtasham-SE/NyxOS)** | C++ | A small operating system with process scheduling and memory management |
-| **[Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)** | React · Node.js · MySQL | Full-stack app with complex queries and complete CRUD operations |
-| **[Discrete Project](https://github.com/M-Ehtasham-SE/Discrete-Project-New)** | C++ · CMake · Make · Shell | Multi-language project built around a custom build system |
-| **[Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System)** | UML | Requirements engineering project with a full SRS document |
-| **[Football Stadium Management System](https://github.com/M-Ehtasham-SE/Football-Stadium-System)** | Java · UML | Software design project with complete UML diagrams |
-| **[Brick Breaker Game](https://github.com/M-Ehtasham-SE/Brick-Braker-)** | NASM Assembly | A classic arcade game built directly in Assembly |
-| **[LeetCode Solutions](https://github.com/M-Ehtasham-SE/LeetCode-Solutions)** | Java · C++ | Daily problem-solving log, 1–2 problems a day |
-
-*Pin cards pull live star counts, last-updated dates, and language breakdowns directly from GitHub — no manual edits required as the repos evolve.*
+<p align="center"><sub>Fetched live from LeetCode on every load. Solve a problem and the card updates with no README edit.</sub></p>
 
 ---
 
-## 🤝 Let's Connect
+## `05` &nbsp;Activity & Analytics
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-ehtasham-974494344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://leetcode.com/M-Ehtasham"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Ehtasham-SE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ehtasham-SE&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
-
-<!--
-  Add a portfolio or resume button here once you have one, e.g.:
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
--->
 
 <p align="center">
-  <i>"Code is not just instructions for machines — it is the architecture of ideas made real."</i>
+  <img src="https://streak-stats.demolab.com?user=M-Ehtasham-SE&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Ehtasham-SE&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/M-Ehtasham-SE/M-Ehtasham-SE/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+</p>
+
+---
+
+## `06` &nbsp;Currently Learning
+
+| | |
+| :--- | :--- |
+| **Backend security** | Advanced Spring Security (OAuth2 / JWT) |
+| **Cloud** | AWS Solutions Architect fundamentals |
+| **Architecture** | Distributed systems basics |
+| **Problem solving** | Data structures & algorithms, practiced daily on LeetCode |
+| **AI engineering** | Integrating LLM APIs (OpenAI, Gemini, LangChain) into real applications |
+
+---
+
+## `07` &nbsp;How I Work
+
+- **Build real things.** I learn best by shipping, from an OS scheduler to a full-stack app.
+- **Maintainable over clever.** Clear structure, sensible architecture, code another person can read.
+- **Systematic problem solving.** Break it down, reason about complexity, then implement.
+- **Understand the layers.** Assembly and OS internals up to REST APIs and cloud deployment.
+- **Use AI as a component,** not a gimmick, and integrate it where it improves the product.
+
+---
+
+<div align="center">
+
+<img src="./assets/footer.svg" alt="Thanks for visiting" width="100%"/>
+
+<a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/m-ehtasham-974494344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/Ehtasham-SE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="tel:+923229240140"><img src="https://img.shields.io/badge/Phone-%2B92%20322%209240140-2EA043?style=for-the-badge" alt="Phone"/></a>
+
+<br/><br/>
+<i>"Code is not just instructions for machines — it is the architecture of ideas made real."</i>
+
+</div>
