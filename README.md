@@ -6,6 +6,16 @@
 
 <br/>
 
+<a href="#about"><img src="./assets/nav-about.svg" alt="About" height="42"/></a>
+<a href="#skills"><img src="./assets/nav-skills.svg" alt="Skills" height="42"/></a>
+<a href="#projects"><img src="./assets/nav-projects.svg" alt="Projects" height="42"/></a>
+<a href="#leetcode"><img src="./assets/nav-leetcode.svg" alt="LeetCode" height="42"/></a>
+<a href="#activity"><img src="./assets/nav-activity.svg" alt="Activity" height="42"/></a>
+<a href="#learning"><img src="./assets/nav-learning.svg" alt="Learning" height="42"/></a>
+<a href="#contact"><img src="./assets/nav-contact.svg" alt="Contact" height="42"/></a>
+
+<br/><br/>
+
 <a href="https://github.com/M-Ehtasham-SE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/m-ehtasham-974494344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:ehtashamsd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -18,11 +28,15 @@
 <img src="https://komarev.com/ghpvc/?username=M-Ehtasham-SE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/M-Ehtasham-SE?label=Followers&style=flat&color=blue" alt="Followers"/>
 
+<br/><br/>
+
+<img src="./assets/terminal.svg" alt="Animated terminal introducing Muhammad Ehtasham" width="100%"/>
+
 </div>
 
 <br/>
 
-## `01` &nbsp;About
+## About
 
 I'm a **3rd-year Software Engineering student at FAST-NUCES**, focused on **backend development, systems programming and AI-integrated applications**.
 
@@ -46,19 +60,21 @@ My work runs from the bottom of the stack to the top. I built a small operating 
 
 ---
 
-## `02` &nbsp;Tech Stack
+## Skills
 
-<img src="./assets/stack3d.svg" alt="Tech stack as a layered architecture" width="100%"/>
+<img src="./assets/orbit.svg" alt="Technologies orbiting a core: Java, Spring Boot, React, PostgreSQL, AWS and more" width="100%"/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,postgres,mysql&perline=6" alt="Languages and databases"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,tailwind&perline=4" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,postgres,mysql,spring,react,nodejs,tailwind&perline=10" alt="Languages and frameworks"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postman,idea,vscode&perline=7" alt="Cloud and tools"/>
 
 </div>
+
+<details>
+<summary><b>Full breakdown by layer</b></summary>
+<br/>
 
 | Layer | Technologies |
 | :--- | :--- |
@@ -71,78 +87,139 @@ My work runs from the bottom of the stack to the top. I built a small operating 
 | **Tools** | Git · Postman · IntelliJ IDEA · VS Code |
 | **Foundations** | OOP · DSA · SDLC · Design Patterns · OS concepts |
 
----
-
-## `03` &nbsp;Featured Projects
-
-<p align="center">
-  <a href="https://github.com/M-Ehtasham-SE/ai-career-coach-platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=ai-career-coach-platform&theme=tokyonight&hide_border=true" alt="AI Career Coach Platform"/></a>
-  <a href="https://github.com/M-Ehtasham-SE/NyxOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=NyxOS&theme=tokyonight&hide_border=true" alt="NyxOS"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/M-Ehtasham-SE/Vehicle-Rental-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=Vehicle-Rental-System&theme=tokyonight&hide_border=true" alt="Vehicle Rental System"/></a>
-  <a href="https://github.com/M-Ehtasham-SE/Discrete-Project-New"><img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=Discrete-Project-New&theme=tokyonight&hide_border=true" alt="Discrete Project"/></a>
-</p>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)
-Resume scoring, mock interview practice and progress tracking. Built during the Tynovate Studio internship.
-
-**Stack:** Java · Spring Boot · PostgreSQL · OpenAI
-**Highlights:** AI-powered resume analysis · interview practice · progress tracking
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ [NyxOS: Mini OS](https://github.com/M-Ehtasham-SE/NyxOS)
-A small operating system with process scheduling and memory management.
-
-**Stack:** C++
-**Highlights:** scheduler · memory manager · systems-level design
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🚗 [Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)
-Full-stack rental application with complex queries and complete CRUD operations.
-
-**Stack:** React · Node.js · MySQL
-**Highlights:** relational modelling · CRUD · query design
-
-</td>
-<td valign="top">
-
-### 🛠️ [Discrete Project](https://github.com/M-Ehtasham-SE/Discrete-Project-New)
-Multi-language project built around a custom build system.
-
-**Stack:** C++ · CMake · Make · Shell
-**Highlights:** build automation
-
-</td>
-</tr>
-</table>
+</details>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>See it as an architecture stack</b></summary>
 <br/>
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| [Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System) | UML | Requirements engineering project with a full SRS document |
-| [Football Stadium Management System](https://github.com/M-Ehtasham-SE/Football-Stadium-System) | Java · UML | Software design project with complete UML diagrams |
-| [Brick Breaker Game](https://github.com/M-Ehtasham-SE/Brick-Braker-) | NASM Assembly | A classic arcade game built directly in Assembly |
-| [LeetCode Solutions](https://github.com/M-Ehtasham-SE/LeetCode-Solutions) | Java · C++ | Daily problem-solving log, 1–2 problems a day |
-
+<img src="./assets/stack3d.svg" alt="Tech stack as a layered architecture" width="100%"/>
 </details>
 
 ---
 
-## `04` &nbsp;Problem Solving: LeetCode (live)
+## Projects
+
+<!-- PROJECTS:START -->
+<p align="center">
+  <a href="https://github.com/M-Ehtasham-SE/ai-career-coach-platform"><img src="./assets/project-ai-career-coach-platform.svg" width="49%" alt="AI Career Coach Platform"/></a>
+  <a href="https://github.com/M-Ehtasham-SE/NyxOS"><img src="./assets/project-nyxos.svg" width="49%" alt="NyxOS: Mini OS"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/M-Ehtasham-SE/Vehicle-Rental-System"><img src="./assets/project-vehicle-rental-system.svg" width="49%" alt="Vehicle Rental Management System"/></a>
+  <a href="https://github.com/M-Ehtasham-SE/Discrete-Project-New"><img src="./assets/project-discrete-project-new.svg" width="49%" alt="Discrete Project"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/M-Ehtasham-SE/Facility-Booking-System"><img src="./assets/project-facility-booking-system.svg" width="49%" alt="Facility Booking System"/></a>
+  <a href="https://github.com/M-Ehtasham-SE/Football-Stadium-System"><img src="./assets/project-football-stadium-system.svg" width="49%" alt="Football Stadium Management System"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/M-Ehtasham-SE/Brick-Braker-"><img src="./assets/project-brick-braker.svg" width="49%" alt="Brick Breaker Game"/></a>
+  <a href="https://github.com/M-Ehtasham-SE/LeetCode-Solutions"><img src="./assets/project-leetcode-solutions.svg" width="49%" alt="LeetCode Solutions"/></a>
+</p>
+
+<sub>Open a project below for the details.</sub>
+
+<details>
+<summary><b>AI Career Coach Platform</b></summary>
+<br/>
+
+Resume scoring, mock interview practice and progress tracking. Built during the Tynovate Studio internship.
+
+- **Stack:** Java · Spring Boot · PostgreSQL · OpenAI
+- **Highlights:** Resume scoring · Mock interview practice · Progress tracking
+- **Links:** [Repository](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)
+
+</details>
+
+<details>
+<summary><b>NyxOS: Mini OS</b></summary>
+<br/>
+
+A small operating system with process scheduling and memory management.
+
+- **Stack:** C++
+- **Highlights:** Process scheduling · Memory management
+- **Links:** [Repository](https://github.com/M-Ehtasham-SE/NyxOS)
+
+</details>
+
+<details>
+<summary><b>Vehicle Rental Management System</b></summary>
+<br/>
+
+Full-stack app with complex queries and complete CRUD operations.
+
+- **Stack:** React · Node.js · MySQL
+- **Highlights:** Complex queries · Complete CRUD operations
+- **Links:** [Repository](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)
+
+</details>
+
+<details>
+<summary><b>Discrete Project</b></summary>
+<br/>
+
+Multi-language project built around a custom build system.
+
+- **Stack:** C++ · CMake · Make · Shell
+- **Highlights:** Custom build system
+- **Links:** [Repository](https://github.com/M-Ehtasham-SE/Discrete-Project-New)
+
+</details>
+
+<details>
+<summary><b>Facility Booking System</b></summary>
+<br/>
+
+Requirements engineering project with a full SRS document.
+
+- **Stack:** UML
+- **Highlights:** Requirements engineering · Full SRS document
+- **Links:** [Repository](https://github.com/M-Ehtasham-SE/Facility-Booking-System)
+
+</details>
+
+<details>
+<summary><b>Football Stadium Management System</b></summary>
+<br/>
+
+Software design project with complete UML diagrams.
+
+- **Stack:** Java · UML
+- **Highlights:** Complete UML diagrams
+- **Links:** [Repository](https://github.com/M-Ehtasham-SE/Football-Stadium-System)
+
+</details>
+
+<details>
+<summary><b>Brick Breaker Game</b></summary>
+<br/>
+
+A classic arcade game built directly in Assembly.
+
+- **Stack:** NASM Assembly
+- **Highlights:** Written directly in assembly
+- **Links:** [Repository](https://github.com/M-Ehtasham-SE/Brick-Braker-)
+
+</details>
+
+<details>
+<summary><b>LeetCode Solutions</b></summary>
+<br/>
+
+Daily problem-solving log, 1-2 problems a day.
+
+- **Stack:** Java · C++
+- **Highlights:** Daily practice
+- **Links:** [Repository](https://github.com/M-Ehtasham-SE/LeetCode-Solutions)
+
+</details>
+
+<!-- PROJECTS:END -->
+
+---
+
+## LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/Ehtasham-SE/">
@@ -154,7 +231,7 @@ Multi-language project built around a custom build system.
 
 ---
 
-## `05` &nbsp;Activity & Analytics
+## Activity
 
 <div align="center">
   <a href="https://github.com/M-Ehtasham-SE"><img src="https://ghchart.rshah.org/22d3ee/M-Ehtasham-SE" alt="GitHub contribution calendar" width="100%"/></a>
@@ -192,7 +269,7 @@ Multi-language project built around a custom build system.
 
 ---
 
-## `06` &nbsp;Currently Learning
+## Learning
 
 | | |
 | :--- | :--- |
@@ -202,9 +279,9 @@ Multi-language project built around a custom build system.
 | **Problem solving** | Data structures & algorithms, practiced daily on LeetCode |
 | **AI engineering** | Integrating LLM APIs (OpenAI, Gemini, LangChain) into real applications |
 
----
-
-## `07` &nbsp;How I Work
+<details>
+<summary><b>How I work</b></summary>
+<br/>
 
 - **Build real things.** I learn best by shipping, from an OS scheduler to a full-stack app.
 - **Maintainable over clever.** Clear structure, sensible architecture, code another person can read.
@@ -212,7 +289,11 @@ Multi-language project built around a custom build system.
 - **Understand the layers.** Assembly and OS internals up to REST APIs and cloud deployment.
 - **Use AI as a component,** not a gimmick, and integrate it where it improves the product.
 
+</details>
+
 ---
+
+## Contact
 
 <div align="center">
 

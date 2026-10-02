@@ -1,0 +1,14 @@
+{
+  "nav":[["About","about"],["Skills","skills"],["Projects","projects"],["LeetCode","leetcode"],["Activity","activity"],["Learning","learning"],["Contact","contact"]],
+  "terminal":[
+    "$ whoami",
+    "Muhammad Ehtasham | Software Engineering student @ FAST-NUCES",
+    "$ cat focus.txt",
+    "backend | cloud & devops | ai integration | systems programming",
+    "$ ls projects/",
+    "ai-career-coach-platform  NyxOS  Vehicle-Rental-System  Discrete-Project-New",
+    "$ cat now.txt",
+    "Spring Security (OAuth2/JWT) | AWS fundamentals | distributed systems"
+  ],
+  "orbit":["Java","Spring Boot","Spring Security","Hibernate","PostgreSQL","MySQL","React","Node.js","Tailwind CSS","C++","Assembly","JavaScript","TypeScript","AWS","Docker","Linux","Git","OpenAI","Gemini","LangChain"]
+}

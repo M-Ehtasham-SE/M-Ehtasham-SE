@@ -1,16 +1,11 @@
-name: Generate Snake Contribution Animation
-
-# Regenerates the animated snake SVG that "eats" your contribution graph.
-# Runs daily and on manual trigger. No secrets required beyond the
-# repo's own default GITHUB_TOKEN.
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day, at 00:00 UTC
-  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
-    branches:
-      - main               # regenerate whenever you push to main
+    branches: [main]
 
 permissions:
   contents: write
@@ -18,18 +13,16 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        id: snake
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push output to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
