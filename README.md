@@ -156,7 +156,7 @@ From building an OS from scratch in C++ to shipping an AI-powered career-coachin
 | :--- | :--- | :--- |
 | **[AI Career Coach Platform](https://github.com/M-Ehtasham-SE/ai-career-coach-platform)** | Java · Spring Boot · PostgreSQL · OpenAI | Resume scoring, mock interview practice, and progress tracking — built during the Tynovate Studio internship |
 | **[NyxOS – Mini OS](https://github.com/M-Ehtasham-SE/NyxOS)** | C++ | A small operating system with process scheduling and memory management |
-| **[Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/Vehicle-Rental-System)** | React · Node.js · MySQL | Full-stack app with complex queries and complete CRUD operations |
+| **[Vehicle Rental Management System](https://github.com/M-Ehtasham-SE/aerodrive)** | React · Node.js · MySQL | Full-stack app with complex queries and complete CRUD operations |
 | **[Discrete Project](https://github.com/M-Ehtasham-SE/Discrete-Project-New)** | C++ · CMake · Make · Shell | Multi-language project built around a custom build system |
 | **[Facility Booking System](https://github.com/M-Ehtasham-SE/Facility-Booking-System)** | UML | Requirements engineering project with a full SRS document |
 | **[Football Stadium Management System](https://github.com/M-Ehtasham-SE/Football-Stadium-System)** | Java · UML | Software design project with complete UML diagrams |
