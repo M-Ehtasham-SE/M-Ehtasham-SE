@@ -144,7 +144,7 @@ From building an OS from scratch in C++ to shipping an AI-powered career-coachin
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/M-Ehtasham-SE/Vehicle-Rental-System">
+  <a href="https://github.com/M-Ehtasham-SE/aerodrive">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-Ehtasham-SE&repo=Vehicle-Rental-System&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/M-Ehtasham-SE/Discrete-Project-New">
